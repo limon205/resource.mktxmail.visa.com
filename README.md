@@ -1,2 +1,2 @@
-# resource.mktxmail.visa.com
+# try.cloudways.com
 # subdomain takeover by @mrlimonhosen230
